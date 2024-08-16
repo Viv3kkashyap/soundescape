@@ -1,2 +1,1 @@
-# soundescape
-Masters project at my college.
+# binaural-beats
